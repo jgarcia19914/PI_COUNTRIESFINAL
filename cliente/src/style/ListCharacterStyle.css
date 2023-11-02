@@ -1,0 +1,23 @@
+.Lista_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+    padding: 5px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+    padding: 5px;
+    justify-content:left;
+    flex-wrap: wrap;
+}
+.SearchCountries{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

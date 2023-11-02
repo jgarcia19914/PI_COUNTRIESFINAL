@@ -1,0 +1,32 @@
+.Formulario{
+    align-items: center;
+    display:contents;
+    justify-content: center;
+    width: 480px;
+}
+.foma{
+    align-items: center;
+    margin: 15px;
+    padding: 15px;
+}
+input{
+    width: 100%;
+    display: block;
+    margin: 5px 0 10px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+select{
+    width: 100%;
+    display: block;
+    margin: 5px 0 10px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+option{
+    width: 100%;
+    display: block;
+    margin: 5px 0 10px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}

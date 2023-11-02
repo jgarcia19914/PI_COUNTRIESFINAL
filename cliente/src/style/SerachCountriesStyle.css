@@ -1,0 +1,12 @@
+.Search_contriner{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+    display: flex;
+    width: 1045px;
+   
+}
+input[type="search"]{
+    width: 15;
+}

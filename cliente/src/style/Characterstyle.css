@@ -1,0 +1,22 @@
+.Character_container{
+
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 5px;
+    color: aliceblue;
+    border-radius: 145px;
+    flex-direction: flex;
+    background-color: rgb(245, 237, 237);
+    box-shadow: 2px 2px 8px 4px #4c4b4bd1;
+    width: 345px;
+    
+}
+.Flag{
+    border-radius: 100%;
+    width: 115px;
+    height: 115px;
+}
+h1{
+    color: black;
+}
